@@ -10,3 +10,6 @@ git remote add origin https://github.com/userName/repoName.git
 git push --force origin master
 # public key issues 
 use windows credential helper
+
+# make changes 
+here are soem changes 
