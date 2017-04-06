@@ -1,7 +1,7 @@
-## Use this to push to git from bash
-# first change directory 
+##Use this to push to git from bash
+#first change directory 
 cd dir
-# then 
+#then 
 git init
 git add README.md
 git add .
